@@ -9,8 +9,6 @@ Bachelors of Computer Applications
 
 ## **Work Experience**
 
----
-
 ### **Infrastructure Services Engineer at Wipro Technologies**
 
 _September 2020 - Present_
@@ -21,7 +19,6 @@ Working as an UC4 Job Scheduler and I am responsible for batch application sched
 
 ## **TECHNICAL SKILLS**
 
----
 
 **Skills**: `SQL`, `Automation`, `Bash`, `Git`, `Linux`.
 
@@ -31,7 +28,6 @@ Software: `Dev C++`, `VS Code`, `Eclipse`, `Service Now`, `UC4`.
 
 ## **Education**
 
----
 
 ### **M.Tech - BITS PILANI**
 
@@ -51,7 +47,6 @@ Software: `Dev C++`, `VS Code`, `Eclipse`, `Service Now`, `UC4`.
 
 ## **EXTRA-CURRICULAR ACTIVITIES**
 
----
 
 - **Volunteer at Young Red Cross (YRC)**
 
